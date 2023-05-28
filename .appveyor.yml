@@ -1,4 +1,3 @@
-Linux Config
 image: Ubuntu  # образ для сборки
 
 stack: jdk 11  # версия JDK
