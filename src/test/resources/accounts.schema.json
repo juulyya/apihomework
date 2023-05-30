@@ -14,7 +14,7 @@
     "patternProperties": {
       "currency": {
         "enum": [
-          "RUR",
+          "RUB",
           "USD"
         ]
       }
